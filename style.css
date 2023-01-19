@@ -1,0 +1,10 @@
+.score {
+    font-size: 50px;
+    margin-left: 100px;
+}
+.timer {
+    font-size: 50px;
+    float: right;
+    margin-right: 100px;
+}
+
